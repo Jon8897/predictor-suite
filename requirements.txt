@@ -1,0 +1,21 @@
+# Core
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Plotting / Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.2
+
+# GUI (choose ONE — defaulting to Tkinter which comes with Python)
+# PyQt5 is optional if you plan to upgrade GUI experience
+PyQt5>=5.15.9
+
+# Linting / Formatting
+flake8>=6.0.0
+pre-commit>=3.3.3
+
+# Misc tools
+python-dotenv>=1.0.0
+
+# Optional (dev tools, remove if not needed)
+jupyterlab>=4.0.0
