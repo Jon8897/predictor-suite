@@ -14,6 +14,8 @@ If you discover a security vulnerability, please report it by opening an issue i
 ### Requesting Features
 If you have an idea for a new feature or improvement, please submit it via the **[Feature Request template](../../issues/new?template=feature_request.md)**.
 
+### Security vulnerability?
+Please disclose responsibly via the **[Security](SECURITY.md)** file.
 
 ## 💡 Features
 
